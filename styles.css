@@ -68,6 +68,10 @@ nav {
     display: flex;
     justify-content: center;
     gap: 20px;
+    overflow-x: auto;
+    padding: 10px 0;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
 }
 nav a {
     background: rgba(255, 255, 255, 0.2);
