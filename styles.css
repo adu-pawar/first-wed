@@ -80,4 +80,8 @@ nav a:hover {
     background: rgba(255, 255, 255, 0.3);
     text-decoration: none;
 }
-
+footer{
+    background:#A52A2A;
+    content-align: centre;
+    text-align: centre;
+}
