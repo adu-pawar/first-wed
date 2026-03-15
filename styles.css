@@ -85,3 +85,9 @@ footer{
     content-align: centre;
     text-align: centre;
 }
+footer p{
+    font-weight: bolder;
+    text-align: center;
+
+    
+}
