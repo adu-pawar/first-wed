@@ -27,6 +27,7 @@ p {
     font-size: 1.2em;
 }
 .subject {
+    display: inline-block;
     background: white;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -35,6 +36,7 @@ p {
     transition: transform 0.3s;
     cursor:pointer;
     scroll-behavior: smooth;
+    width: 30%;
 }
 .subject:hover {
     transform: translateY(-5px);
@@ -141,6 +143,6 @@ header a{
     color:rgb(250, 157, 157);
 }
 #info{
-    weight: 700;
+    font-style: bold;
     
 }
